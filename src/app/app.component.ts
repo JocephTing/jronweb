@@ -17,7 +17,7 @@ export class AppComponent {
       })
     }
     else {
-      console.log("fucked up");
+      console.log("error");
     }
   }
 
